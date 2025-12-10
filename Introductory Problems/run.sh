@@ -1,0 +1,3 @@
+g++ "$1" -o main
+./main
+rm main
